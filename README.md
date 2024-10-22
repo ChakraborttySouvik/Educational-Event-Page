@@ -18,21 +18,9 @@ Normalize.css to ensure cross-browser consistency.
 # How to Use
 Clone the repository:
 git clone https://github.com/ChakraborttySouvik/Educational-Event-Page
+
 Open index.html in your preferred web browser to view the website locally.
 
-# Folder Structure
-├── css
-│   ├── normalize.css      # Resets browser defaults for consistent styling
-│   ├── style.css          # Main stylesheet for the website
-│   └── all.min.css        # FontAwesome for icons
-├── images
-│   ├── favicon.png        # Favicon for the website
-│   ├── logo.png           # Logo used in the header
-│   ├── speakers           # Images for event speakers
-│   ├── venue-gallery      # Images for the venue gallery
-│   ├── hotels             # Images of nearby hotels
-├── index.html             # Main HTML file
-└── README.md              # This README file
 # Customization
 You can easily customize the content of the website by modifying the following sections in index.html:
 
