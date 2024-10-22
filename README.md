@@ -1,4 +1,4 @@
-# Tutorialspoint Event Website
+# Educational Event Website
 This project is a responsive event landing page for a fictional event organized by TutorialsPoint. The website is designed with HTML and CSS to provide information about the event, including event schedule, speakers, venue, hotels, and more. It also features a section for buying tickets and a gallery showcasing previous events.
 
 # Features
