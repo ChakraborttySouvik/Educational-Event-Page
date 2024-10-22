@@ -41,7 +41,7 @@ Event Information: Update the event title, description, schedule, and speakers.
 Venue & Hotels: Modify the venue information and nearby hotel details.
 Social Media Links: Add or update social media links for speakers.
 # Live Demo
-To view a live demo of this project, visit Live Demo Link.
+You can view the live demo of this project at the following link: [Live Demo](https://chakraborttysouvik.github.io/Educational-Event-Page/)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
